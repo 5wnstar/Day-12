@@ -74,5 +74,36 @@ A new windows opened after navigating as told above. Now type the following code
 
 print("Hey!, Welcome to cyber_jollof 30 days of codding")
 
+like shown in the snapshot given below:
+
+![print](https://user-images.githubusercontent.com/53369822/133160713-36fc0c10-4576-46b5-bb36-2e7baa59a6f2.png)
+
+As the simplest Python code is written, now save the code by navigating File -> Save As... like shown in the snapshot given below:
+![Sa](https://user-images.githubusercontent.com/53369822/133161986-5a64737b-8526-4a79-af98-10019b52003e.png)
+
+
+Here is the window opened after navigating as told above:
+![dia](https://user-images.githubusercontent.com/53369822/133162070-fde5e4e5-8c69-4106-8e92-04cda48b3c82.png)
+
+As shown in the above snapshot, type the name of program say cyberjollof.py and press ENTER key. Now your Python source code is saved. Follow the step no.4 given below.
+Python IDLE Setup - Step No.4
+
+Since the Python source code is saved, therefore this is the time to execute or run the program. To do this, either navigate to Run - > Run Module (F5) or just press F5 key to run the program. Here is the output produced:
+
+![run](https://user-images.githubusercontent.com/53369822/133162421-56924541-63e8-4723-9e30-386bf9216725.png)
+
+Let's create another Python code and execute it. Here is the code:
+
+print("Printing 'Cyb3r_J0ll0f' 10 times\n")
+for i in range(10):
+    print("Cyb3r_J0ll0f")
+
+Write this code and press F5 key to run it. Here is the output produced:
+
+![image](https://user-images.githubusercontent.com/53369822/133163227-289260e0-bd58-4996-a27b-8a085370786e.png)
+
+
+Since this is just a demo of how a Python program can be executed. Therefore don't worry about the code. You'll get to learn about its working step by step later on.
+
 
 
