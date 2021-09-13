@@ -43,3 +43,36 @@ That is, open the website python.org. Here is the snapshot of the opened website
 
 ![python](https://user-images.githubusercontent.com/53369822/133116334-744d0bb4-467b-4247-9a08-01ca2baf7527.png)
 
+As indicated above, click on the Download button from main navigation to open the download page that looks like:
+
+![image](https://user-images.githubusercontent.com/53369822/133117605-086f1ca0-3c7e-4620-a071-8b78b5faef8a.png)
+
+
+As again indicated above, click on the Download Python 3.9.6 (this version gets changed at the time when you visit, if latest version arrives). The download gets started after clicking on this button. The size may be around 20-30 MB
+
+Now install the software Python in your system. After installation, follow the steps given below
+Python IDLE Setup - Step No.2
+
+If you've Windows 7, then go to Start -> All Programs -> Python 3.9 -> IDLE (Python 3.9 - 64 bit). If you've 32-bit Windows, then in place of 64-bit, you'll see 32-bit
+
+If you've Windows 10 (32-bit or 64-bit), then go to Start -> Python 3.9 -> IDLE (Python 3.9 64-bit). Whatever your system is say Linux, Apple Mac etc. do follow the similar steps to open the Python IDLE. Here is the snapshot:
+
+![idle](https://user-images.githubusercontent.com/53369822/133118439-90b83c3f-980c-4a90-b685-e27d70d78dab.png)
+
+And here is the snapshot of the Windows IDLE Shell 3.9.6. The windows opened after clicking on IDLE (Python 3.9 64-bit) as told above:
+![shell](https://user-images.githubusercontent.com/53369822/133119565-864e952f-19fb-4098-a792-7d12a8031aa9.png)
+
+
+Now let's create and execute a Python program using this Python Shell directly. Follow the next step.
+Python IDLE Setup - Step No.3
+
+As the Python Shell windows opened, therefore navigate to or click on FILE -> NEW FILE as shown in the snapshot given below:
+
+![image](https://user-images.githubusercontent.com/53369822/133120233-b2168631-324e-4e3c-9cb2-06cf9c9cb973.png)
+
+A new windows opened after navigating as told above. Now type the following code in that window:
+
+print("Hey!, Welcome to cyber_jollof 30 days of codding")
+
+
+
